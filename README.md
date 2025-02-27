@@ -2,10 +2,7 @@
 **Project Overview**
 This project is a front-end replica of Amazon's website, designed for desktop screens only. It includes:
 
-a. A responsive navigation bar
-b. A product listing page with a grid layout
-c. A shopping cart UI (static, no functionality)
-d. Cross-browser compatibility for a consistent experience
+Designed and structured the layout using flexbox and grid, ensuring a visually appealing and well-organized interface. Implemented key components such as the navigation bar, product listing pages, and shopping cart UI. Focused on cross-browser compatibility and maintaining a clean, professional design optimized for larger screens.
 
 **Technologies Used**
 HTML – Structure of the website
